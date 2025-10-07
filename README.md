@@ -7,6 +7,7 @@ The project uses a **bookstore dataset** consisting of information about
     2. Customers
     3. Orders.  
 After cleaning the data in Excel (removing duplicates, formatting dates, correcting data types, etc.), I imported it into SQL and created three relational tables: **Books**, **Customers**, and **Orders**.
+    
     1. 🧹 **Cleaned and structured data** using **Excel**  
     2. 🗄️ **Created relational tables** and imported data using **MySQL**  
     3. 📊 **Performed analytical queries** to uncover insights and trends  
@@ -62,4 +63,3 @@ then I wrote **20 SQL queries** (10 basic + 10 advanced) to analyze trends, cust
 
 ---
 
-## 📁 Project Structure
